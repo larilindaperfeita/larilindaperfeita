@@ -1,7 +1,10 @@
-## Hi there 👋
+Bem vindos ao meu perfil
 
-<!--
-**larilindaperfeita/larilindaperfeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Larissa soares 
+estou estudando no alura
+Estou me desenvolvendo na linguagem Java6cript
+Ultilizo esse espaço para a minha organizaço e compartilhamento dos meus projetos desenvolvidos
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
